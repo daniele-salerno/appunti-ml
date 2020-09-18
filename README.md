@@ -2,5 +2,5 @@
 Appunti e test di Machine Learning
 
 Argomenti trattati:
-- Regressione Lineare e Polinomiale
+- Regressione Lineare e Polinomiale
 - Classificazione
